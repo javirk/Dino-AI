@@ -1,0 +1,1078 @@
+INFO:19/08/2018 20:57:51, Programa lanzado. Datos: Número de genes: 20, Probabilidad de mutación: 0.2, Genes seleccionados: 8
+INFO:19/08/2018 20:57:51, Se ha elegido el modo TRAINING
+INFO:19/08/2018 20:57:52, Genoma importado
+INFO:19/08/2018 20:57:54, Se va a entrenar durante 30 generaciones
+INFO:19/08/2018 20:59:54, Fitness: #### [137, 105, 61, 59, 58, 49, 49, 47]
+INFO:19/08/2018 20:59:55, Generación completada 1
+INFO:19/08/2018 21:02:06, Fitness: #### [110, 109, 101, 79, 75, 74, 60, 50]
+INFO:19/08/2018 21:02:08, Generación completada 2
+INFO:19/08/2018 21:04:13, Fitness: #### [143, 95, 84, 75, 69, 60, 59, 49]
+INFO:19/08/2018 21:04:14, Generación completada 3
+INFO:19/08/2018 21:12:01, Programa lanzado. Datos: Número de genes: 20, Probabilidad de mutación: 0.2, Genes seleccionados: 8
+INFO:19/08/2018 21:12:01, Se ha elegido el modo TRAINING
+INFO:19/08/2018 21:12:02, Genoma importado
+INFO:19/08/2018 21:12:12, Programa lanzado. Datos: Número de genes: 20, Probabilidad de mutación: 0.2, Genes seleccionados: 8
+INFO:19/08/2018 21:12:12, Se ha elegido el modo TRAINING
+INFO:19/08/2018 21:12:12, Genoma importado
+INFO:19/08/2018 21:12:14, Se va a entrenar durante 30 generaciones
+INFO:19/08/2018 21:14:07, Copio 11
+INFO:19/08/2018 21:14:07, Copio 14
+INFO:19/08/2018 21:14:07, Copio 8
+INFO:19/08/2018 21:14:07, Copio 7
+INFO:19/08/2018 21:14:07, Copio 10
+INFO:19/08/2018 21:14:07, Copio 0
+INFO:19/08/2018 21:14:07, Copio 17
+INFO:19/08/2018 21:14:07, Copio 1
+INFO:19/08/2018 21:14:07, Fitness: #### [113, 66, 62, 60, 55, 53, 50, 48]
+INFO:19/08/2018 21:14:07, Copio 14
+INFO:19/08/2018 21:14:07, Copio 14
+INFO:19/08/2018 21:14:07, Seleccionadoss 14 y 14
+INFO:19/08/2018 21:14:07, Copio 0
+INFO:19/08/2018 21:14:07, Copio 17
+INFO:19/08/2018 21:14:07, Seleccionadoss 0 y 17
+INFO:19/08/2018 21:14:07, Copio 0
+INFO:19/08/2018 21:14:07, Copio 0
+INFO:19/08/2018 21:14:07, Seleccionadoss 0 y 0
+INFO:19/08/2018 21:14:07, Copio 1
+INFO:19/08/2018 21:14:07, Copio 8
+INFO:19/08/2018 21:14:07, Seleccionadoss 1 y 8
+INFO:19/08/2018 21:14:08, Copio 8
+INFO:19/08/2018 21:14:08, Copio 0
+INFO:19/08/2018 21:14:08, Seleccionadoss 8 y 0
+INFO:19/08/2018 21:14:08, Copio 11
+INFO:19/08/2018 21:14:08, Copio 14
+INFO:19/08/2018 21:14:08, Seleccionadoss 11 y 14
+INFO:19/08/2018 21:14:08, Copio 0
+INFO:19/08/2018 21:14:08, Copio 14
+INFO:19/08/2018 21:14:08, Seleccionadoss 0 y 14
+INFO:19/08/2018 21:14:08, Copio 0
+INFO:19/08/2018 21:14:08, Copio 0
+INFO:19/08/2018 21:14:08, Seleccionadoss 0 y 0
+INFO:19/08/2018 21:14:08, Copio 1
+INFO:19/08/2018 21:14:08, Copio 17
+INFO:19/08/2018 21:14:08, Copio 10
+INFO:19/08/2018 21:14:08, Copio 14
+INFO:19/08/2018 21:14:08, Generación completada 1
+INFO:20/08/2018 10:30:15, Programa lanzado. Datos: Número de genes: 10, Probabilidad de mutación: 0.2, Genes seleccionados: 4
+INFO:20/08/2018 10:30:15, Se ha elegido el modo TRAINING
+INFO:20/08/2018 10:30:16, Genoma importado
+INFO:20/08/2018 10:30:20, Se va a entrenar durante 30 generaciones
+INFO:20/08/2018 10:31:16, Copio 2
+INFO:20/08/2018 10:31:16, Copio 9
+INFO:20/08/2018 10:31:16, Copio 0
+INFO:20/08/2018 10:31:16, Copio 1
+INFO:20/08/2018 10:31:16, Fitness: #### [92, 60, 52, 47]
+INFO:20/08/2018 10:31:16, Se hace la renumeración de genes
+INFO:20/08/2018 10:31:16, Vamos por el 0
+INFO:20/08/2018 10:31:16, Vamos por el 1
+INFO:20/08/2018 10:31:16, Vamos por el 2
+INFO:20/08/2018 10:31:16, Vamos por el 3
+INFO:20/08/2018 10:31:16, Copio 2
+INFO:20/08/2018 10:31:16, Copio 1
+INFO:20/08/2018 10:31:16, Seleccionadoss 2 y 1
+INFO:20/08/2018 10:31:16, Copio 0
+INFO:20/08/2018 10:31:16, Copio 1
+INFO:20/08/2018 10:31:16, Seleccionadoss 0 y 1
+INFO:20/08/2018 10:31:16, Copio 2
+INFO:20/08/2018 10:31:16, Copio 0
+INFO:20/08/2018 10:31:16, Seleccionadoss 2 y 0
+INFO:20/08/2018 10:31:16, Copio 3
+INFO:20/08/2018 10:31:16, Copio 2
+INFO:20/08/2018 10:31:16, Seleccionadoss 3 y 2
+INFO:20/08/2018 10:31:16, Copio 2
+INFO:20/08/2018 10:31:16, Copio 2
+INFO:20/08/2018 10:31:16, Generación completada 1
+INFO:20/08/2018 10:42:01, Programa lanzado. Datos: Número de genes: 10, Probabilidad de mutación: 0.2, Genes seleccionados: 4
+INFO:20/08/2018 10:42:01, Se ha elegido el modo TRAINING
+INFO:20/08/2018 10:42:01, Genoma importado
+INFO:20/08/2018 10:42:03, Se va a entrenar durante 30 generaciones
+INFO:20/08/2018 10:43:02, Copio 5
+INFO:20/08/2018 10:43:02, Copio 0
+INFO:20/08/2018 10:43:02, Copio 4
+INFO:20/08/2018 10:43:02, Copio 8
+INFO:20/08/2018 10:43:02, Fitness: #### [90, 70, 68, 49]
+INFO:20/08/2018 10:43:02, Renumbering...
+INFO:20/08/2018 10:43:02, 4 genes have been renumbered.
+INFO:20/08/2018 10:43:02, Copio 3
+INFO:20/08/2018 10:43:02, Copio 0
+INFO:20/08/2018 10:43:02, Seleccionadoss 3 y 0
+INFO:20/08/2018 10:43:02, Copio 0
+INFO:20/08/2018 10:43:02, Copio 0
+INFO:20/08/2018 10:43:02, Seleccionadoss 0 y 0
+INFO:20/08/2018 10:43:02, Copio 0
+INFO:20/08/2018 10:43:02, Copio 1
+INFO:20/08/2018 10:43:02, Seleccionadoss 0 y 1
+INFO:20/08/2018 10:43:03, Copio 2
+INFO:20/08/2018 10:43:03, Copio 4
+INFO:20/08/2018 10:43:03, Seleccionadoss 2 y 4
+INFO:20/08/2018 10:43:03, Copio 7
+INFO:20/08/2018 10:43:03, Copio 4
+INFO:20/08/2018 10:43:03, Generación completada 1
+INFO:20/08/2018 10:50:32, Programa lanzado. Datos: Número de genes: 12, Probabilidad de mutación: 0.2, Genes seleccionados: 4
+INFO:20/08/2018 10:50:32, Se ha elegido el modo TRAINING
+INFO:20/08/2018 10:50:32, Genoma importado
+INFO:20/08/2018 10:50:34, Se va a entrenar durante 30 generaciones
+INFO:20/08/2018 10:51:38, Copio 8
+INFO:20/08/2018 10:51:38, Copio 3
+INFO:20/08/2018 10:51:38, Copio 0
+INFO:20/08/2018 10:51:38, Copio 4
+INFO:20/08/2018 10:51:38, Fitness: #### [70, 55, 52, 49]
+INFO:20/08/2018 10:51:38, Renumbering...
+INFO:20/08/2018 10:51:38, 4 genes have been renumbered.
+INFO:20/08/2018 10:51:38, Copio 2
+INFO:20/08/2018 10:51:38, Copio 0
+INFO:20/08/2018 10:51:38, Seleccionadoss 2 y 0
+INFO:20/08/2018 10:51:39, Copio 3
+INFO:20/08/2018 10:51:39, Copio 3
+INFO:20/08/2018 10:51:39, Seleccionadoss 3 y 3
+INFO:20/08/2018 10:51:39, Copio 0
+INFO:20/08/2018 10:51:39, Copio 0
+INFO:20/08/2018 10:51:39, Seleccionadoss 0 y 0
+INFO:20/08/2018 10:51:39, Copio 1
+INFO:20/08/2018 10:51:39, Copio 2
+INFO:20/08/2018 10:51:39, Seleccionadoss 1 y 2
+INFO:20/08/2018 10:51:39, Copio 3
+INFO:20/08/2018 10:51:39, Copio 0
+INFO:20/08/2018 10:51:39, Seleccionadoss 3 y 0
+INFO:20/08/2018 10:51:39, Copio 2
+INFO:20/08/2018 10:51:39, Copio 7
+INFO:20/08/2018 10:51:39, Seleccionadoss 2 y 7
+INFO:20/08/2018 10:51:39, Copio 5
+INFO:20/08/2018 10:51:39, Copio 3
+INFO:20/08/2018 10:51:39, Generación completada 1
+INFO:20/08/2018 10:52:53, Copio 2
+INFO:20/08/2018 10:52:53, Copio 4
+INFO:20/08/2018 10:52:53, Copio 8
+INFO:20/08/2018 10:52:53, Copio 6
+INFO:20/08/2018 10:52:53, Fitness: #### [98, 70, 66, 60]
+INFO:20/08/2018 10:52:53, Renumbering...
+INFO:20/08/2018 10:52:53, 4 genes have been renumbered.
+INFO:20/08/2018 10:52:53, Copio 3
+INFO:20/08/2018 10:52:53, Copio 3
+INFO:20/08/2018 10:52:53, Seleccionadoss 3 y 3
+INFO:20/08/2018 10:52:53, Copio 3
+INFO:20/08/2018 10:52:53, Copio 2
+INFO:20/08/2018 10:52:53, Seleccionadoss 3 y 2
+INFO:20/08/2018 10:52:53, Copio 4
+INFO:20/08/2018 10:52:53, Copio 1
+INFO:20/08/2018 10:52:53, Seleccionadoss 4 y 1
+INFO:20/08/2018 10:52:53, Copio 0
+INFO:20/08/2018 10:52:53, Copio 1
+INFO:20/08/2018 10:52:53, Seleccionadoss 0 y 1
+INFO:20/08/2018 10:52:53, Copio 4
+INFO:20/08/2018 10:52:53, Copio 0
+INFO:20/08/2018 10:52:54, Seleccionadoss 4 y 0
+INFO:20/08/2018 10:52:54, Copio 6
+INFO:20/08/2018 10:52:54, Copio 5
+INFO:20/08/2018 10:52:54, Seleccionadoss 6 y 5
+INFO:20/08/2018 10:52:54, Copio 2
+INFO:20/08/2018 10:52:54, Copio 7
+INFO:20/08/2018 10:52:54, Generación completada 2
+INFO:20/08/2018 10:54:16, Copio 0
+INFO:20/08/2018 10:54:16, Copio 8
+INFO:20/08/2018 10:54:16, Copio 6
+INFO:20/08/2018 10:54:16, Copio 9
+INFO:20/08/2018 10:54:16, Fitness: #### [96, 94, 79, 77]
+INFO:20/08/2018 10:54:16, Renumbering...
+INFO:20/08/2018 10:54:16, 4 genes have been renumbered.
+INFO:20/08/2018 10:54:16, Copio 2
+INFO:20/08/2018 10:54:17, Copio 3
+INFO:20/08/2018 10:54:17, Seleccionadoss 2 y 3
+INFO:20/08/2018 10:54:17, Copio 2
+INFO:20/08/2018 10:54:17, Copio 1
+INFO:20/08/2018 10:54:17, Seleccionadoss 2 y 1
+INFO:20/08/2018 10:54:17, Copio 0
+INFO:20/08/2018 10:54:17, Copio 4
+INFO:20/08/2018 10:54:17, Seleccionadoss 0 y 4
+INFO:20/08/2018 10:54:17, Copio 0
+INFO:20/08/2018 10:54:17, Copio 2
+INFO:20/08/2018 10:54:17, Seleccionadoss 0 y 2
+INFO:20/08/2018 10:54:17, Copio 7
+INFO:20/08/2018 10:54:17, Copio 4
+INFO:20/08/2018 10:54:17, Seleccionadoss 7 y 4
+INFO:20/08/2018 10:54:17, Copio 0
+INFO:20/08/2018 10:54:17, Copio 1
+INFO:20/08/2018 10:54:17, Seleccionadoss 0 y 1
+INFO:20/08/2018 10:54:17, Copio 8
+INFO:20/08/2018 10:54:17, Copio 9
+INFO:20/08/2018 10:54:17, Generación completada 3
+INFO:20/08/2018 10:55:45, Copio 11
+INFO:20/08/2018 10:55:45, Copio 9
+INFO:20/08/2018 10:55:45, Copio 5
+INFO:20/08/2018 10:55:45, Copio 0
+INFO:20/08/2018 10:55:45, Fitness: #### [93, 92, 90, 87]
+INFO:20/08/2018 10:55:45, Renumbering...
+INFO:20/08/2018 10:55:45, 4 genes have been renumbered.
+INFO:20/08/2018 10:55:45, Copio 0
+INFO:20/08/2018 10:55:45, Copio 0
+INFO:20/08/2018 10:55:45, Seleccionadoss 0 y 0
+INFO:20/08/2018 10:55:45, Copio 2
+INFO:20/08/2018 10:55:45, Copio 1
+INFO:20/08/2018 10:55:45, Seleccionadoss 2 y 1
+INFO:20/08/2018 10:55:45, Copio 1
+INFO:20/08/2018 10:55:46, Copio 2
+INFO:20/08/2018 10:55:46, Seleccionadoss 1 y 2
+INFO:20/08/2018 10:55:46, Copio 5
+INFO:20/08/2018 10:55:46, Copio 0
+INFO:20/08/2018 10:55:46, Seleccionadoss 5 y 0
+INFO:20/08/2018 10:55:46, Copio 4
+INFO:20/08/2018 10:55:46, Copio 3
+INFO:20/08/2018 10:55:46, Seleccionadoss 4 y 3
+INFO:20/08/2018 10:55:46, Copio 2
+INFO:20/08/2018 10:55:46, Copio 3
+INFO:20/08/2018 10:55:46, Seleccionadoss 2 y 3
+INFO:20/08/2018 10:55:46, Copio 5
+INFO:20/08/2018 10:55:46, Copio 9
+INFO:20/08/2018 10:55:46, Generación completada 4
+INFO:20/08/2018 10:57:10, Copio 6
+INFO:20/08/2018 10:57:10, Copio 9
+INFO:20/08/2018 10:57:11, Copio 1
+INFO:20/08/2018 10:57:11, Copio 10
+INFO:20/08/2018 10:57:11, Fitness: #### [98, 98, 90, 88]
+INFO:20/08/2018 10:57:11, Renumbering...
+INFO:20/08/2018 10:57:11, 4 genes have been renumbered.
+INFO:20/08/2018 10:57:11, Copio 0
+INFO:20/08/2018 10:57:11, Copio 0
+INFO:20/08/2018 10:57:11, Seleccionadoss 0 y 0
+INFO:20/08/2018 10:57:11, Copio 0
+INFO:20/08/2018 10:57:11, Copio 3
+INFO:20/08/2018 10:57:11, Seleccionadoss 0 y 3
+INFO:20/08/2018 10:57:11, Copio 1
+INFO:20/08/2018 10:57:11, Copio 3
+INFO:20/08/2018 10:57:11, Seleccionadoss 1 y 3
+INFO:20/08/2018 10:57:11, Copio 0
+INFO:20/08/2018 10:57:11, Copio 3
+INFO:20/08/2018 10:57:11, Seleccionadoss 0 y 3
+INFO:20/08/2018 10:57:12, Copio 3
+INFO:20/08/2018 10:57:12, Copio 3
+INFO:20/08/2018 10:57:12, Seleccionadoss 3 y 3
+INFO:20/08/2018 10:57:12, Copio 5
+INFO:20/08/2018 10:57:12, Copio 0
+INFO:20/08/2018 10:57:12, Seleccionadoss 5 y 0
+INFO:20/08/2018 10:57:12, Copio 6
+INFO:20/08/2018 10:57:12, Copio 8
+INFO:20/08/2018 10:57:12, Generación completada 5
+INFO:20/08/2018 10:58:42, Copio 2
+INFO:20/08/2018 10:58:42, Copio 1
+INFO:20/08/2018 10:58:42, Copio 4
+INFO:20/08/2018 10:58:43, Copio 0
+INFO:20/08/2018 10:58:43, Fitness: #### [118, 96, 93, 92]
+INFO:20/08/2018 10:58:43, Renumbering...
+INFO:20/08/2018 10:58:43, 4 genes have been renumbered.
+INFO:20/08/2018 10:58:43, Copio 0
+INFO:20/08/2018 10:58:43, Copio 3
+INFO:20/08/2018 10:58:43, Seleccionadoss 0 y 3
+INFO:20/08/2018 10:58:43, Copio 4
+INFO:20/08/2018 10:58:43, Copio 1
+INFO:20/08/2018 10:58:43, Seleccionadoss 4 y 1
+INFO:20/08/2018 10:58:43, Copio 5
+INFO:20/08/2018 10:58:43, Copio 3
+INFO:20/08/2018 10:58:43, Seleccionadoss 5 y 3
+INFO:20/08/2018 10:58:43, Copio 2
+INFO:20/08/2018 10:58:43, Copio 6
+INFO:20/08/2018 10:58:43, Seleccionadoss 2 y 6
+INFO:20/08/2018 10:58:43, Copio 3
+INFO:20/08/2018 10:58:43, Copio 7
+INFO:20/08/2018 10:58:43, Seleccionadoss 3 y 7
+INFO:20/08/2018 10:58:43, Copio 3
+INFO:20/08/2018 10:58:43, Copio 4
+INFO:20/08/2018 10:58:43, Seleccionadoss 3 y 4
+INFO:20/08/2018 10:58:44, Copio 6
+INFO:20/08/2018 10:58:44, Copio 4
+INFO:20/08/2018 10:58:44, Generación completada 6
+INFO:20/08/2018 11:00:18, Copio 11
+INFO:20/08/2018 11:00:18, Copio 1
+INFO:20/08/2018 11:00:18, Copio 2
+INFO:20/08/2018 11:00:18, Copio 9
+INFO:20/08/2018 11:00:18, Fitness: #### [125, 109, 106, 102]
+INFO:20/08/2018 11:00:18, Renumbering...
+INFO:20/08/2018 11:00:18, 4 genes have been renumbered.
+INFO:20/08/2018 11:00:18, Copio 0
+INFO:20/08/2018 11:00:18, Copio 1
+INFO:20/08/2018 11:00:19, Seleccionadoss 0 y 1
+INFO:20/08/2018 11:00:19, Copio 3
+INFO:20/08/2018 11:00:19, Copio 0
+INFO:20/08/2018 11:00:19, Seleccionadoss 3 y 0
+INFO:20/08/2018 11:00:19, Copio 4
+INFO:20/08/2018 11:00:19, Copio 0
+INFO:20/08/2018 11:00:19, Seleccionadoss 4 y 0
+INFO:20/08/2018 11:00:19, Copio 6
+INFO:20/08/2018 11:00:19, Copio 2
+INFO:20/08/2018 11:00:19, Seleccionadoss 6 y 2
+INFO:20/08/2018 11:00:19, Copio 4
+INFO:20/08/2018 11:00:19, Copio 1
+INFO:20/08/2018 11:00:19, Seleccionadoss 4 y 1
+INFO:20/08/2018 11:00:19, Copio 4
+INFO:20/08/2018 11:00:19, Copio 5
+INFO:20/08/2018 11:00:19, Seleccionadoss 4 y 5
+INFO:20/08/2018 11:00:19, Copio 0
+INFO:20/08/2018 11:00:19, Copio 4
+INFO:20/08/2018 11:00:19, Generación completada 7
+INFO:20/08/2018 11:02:21, Copio 11
+INFO:20/08/2018 11:02:21, Copio 4
+INFO:20/08/2018 11:02:21, Copio 8
+INFO:20/08/2018 11:02:21, Copio 5
+INFO:20/08/2018 11:02:21, Fitness: #### [150, 133, 129, 119]
+INFO:20/08/2018 11:02:21, Renumbering...
+INFO:20/08/2018 11:02:21, 4 genes have been renumbered.
+INFO:20/08/2018 11:02:21, Copio 2
+INFO:20/08/2018 11:02:21, Copio 3
+INFO:20/08/2018 11:02:21, Seleccionadoss 2 y 3
+INFO:20/08/2018 11:02:21, Copio 3
+INFO:20/08/2018 11:02:21, Copio 4
+INFO:20/08/2018 11:02:21, Seleccionadoss 3 y 4
+INFO:20/08/2018 11:02:21, Copio 5
+INFO:20/08/2018 11:02:21, Copio 5
+INFO:20/08/2018 11:02:21, Seleccionadoss 5 y 5
+INFO:20/08/2018 11:02:21, Copio 0
+INFO:20/08/2018 11:02:21, Copio 4
+INFO:20/08/2018 11:02:22, Seleccionadoss 0 y 4
+INFO:20/08/2018 11:02:22, Copio 5
+INFO:20/08/2018 11:02:22, Copio 6
+INFO:20/08/2018 11:02:22, Seleccionadoss 5 y 6
+INFO:20/08/2018 11:02:22, Copio 3
+INFO:20/08/2018 11:02:22, Copio 8
+INFO:20/08/2018 11:02:22, Seleccionadoss 3 y 8
+INFO:20/08/2018 11:02:22, Copio 0
+INFO:20/08/2018 11:02:22, Copio 4
+INFO:20/08/2018 11:02:22, Generación completada 8
+INFO:20/08/2018 11:04:00, Copio 8
+INFO:20/08/2018 11:04:00, Copio 0
+INFO:20/08/2018 11:04:00, Copio 3
+INFO:20/08/2018 11:04:00, Copio 1
+INFO:20/08/2018 11:04:00, Fitness: #### [170, 119, 113, 98]
+INFO:20/08/2018 11:04:00, Renumbering...
+INFO:20/08/2018 11:04:00, 4 genes have been renumbered.
+INFO:20/08/2018 11:04:00, Copio 0
+INFO:20/08/2018 11:04:00, Copio 0
+INFO:20/08/2018 11:04:01, Seleccionadoss 0 y 0
+INFO:20/08/2018 11:04:01, Copio 3
+INFO:20/08/2018 11:04:01, Copio 3
+INFO:20/08/2018 11:04:01, Seleccionadoss 3 y 3
+INFO:20/08/2018 11:04:01, Copio 2
+INFO:20/08/2018 11:04:01, Copio 0
+INFO:20/08/2018 11:04:01, Seleccionadoss 2 y 0
+INFO:20/08/2018 11:04:01, Copio 0
+INFO:20/08/2018 11:04:01, Copio 3
+INFO:20/08/2018 11:04:01, Seleccionadoss 0 y 3
+INFO:20/08/2018 11:04:01, Copio 6
+INFO:20/08/2018 11:04:01, Copio 7
+INFO:20/08/2018 11:04:01, Seleccionadoss 6 y 7
+INFO:20/08/2018 11:04:01, Copio 5
+INFO:20/08/2018 11:04:01, Copio 2
+INFO:20/08/2018 11:04:01, Seleccionadoss 5 y 2
+INFO:20/08/2018 11:04:01, Copio 7
+INFO:20/08/2018 11:04:01, Copio 1
+INFO:20/08/2018 11:04:02, Generación completada 9
+INFO:20/08/2018 11:05:59, Copio 10
+INFO:20/08/2018 11:05:59, Copio 3
+INFO:20/08/2018 11:05:59, Copio 1
+INFO:20/08/2018 11:05:59, Copio 2
+INFO:20/08/2018 11:05:59, Fitness: #### [208, 137, 122, 111]
+INFO:20/08/2018 11:05:59, Renumbering...
+INFO:20/08/2018 11:05:59, 4 genes have been renumbered.
+INFO:20/08/2018 11:05:59, Copio 1
+INFO:20/08/2018 11:05:59, Copio 3
+INFO:20/08/2018 11:06:00, Seleccionadoss 1 y 3
+INFO:20/08/2018 11:06:00, Copio 1
+INFO:20/08/2018 11:06:00, Copio 3
+INFO:20/08/2018 11:06:00, Seleccionadoss 1 y 3
+INFO:20/08/2018 11:06:00, Copio 4
+INFO:20/08/2018 11:06:00, Copio 4
+INFO:20/08/2018 11:06:00, Seleccionadoss 4 y 4
+INFO:20/08/2018 11:06:00, Copio 5
+INFO:20/08/2018 11:06:00, Copio 6
+INFO:20/08/2018 11:06:00, Seleccionadoss 5 y 6
+INFO:20/08/2018 11:06:00, Copio 0
+INFO:20/08/2018 11:06:00, Copio 0
+INFO:20/08/2018 11:06:00, Seleccionadoss 0 y 0
+INFO:20/08/2018 11:06:00, Copio 1
+INFO:20/08/2018 11:06:00, Copio 2
+INFO:20/08/2018 11:06:00, Seleccionadoss 1 y 2
+INFO:20/08/2018 11:06:00, Copio 4
+INFO:20/08/2018 11:06:00, Copio 5
+INFO:20/08/2018 11:06:01, Generación completada 10
+INFO:20/08/2018 11:07:52, Copio 1
+INFO:20/08/2018 11:07:52, Copio 8
+INFO:20/08/2018 11:07:53, Copio 3
+INFO:20/08/2018 11:07:53, Copio 4
+INFO:20/08/2018 11:07:53, Fitness: #### [199, 143, 121, 101]
+INFO:20/08/2018 11:07:53, Renumbering...
+INFO:20/08/2018 11:07:53, 4 genes have been renumbered.
+INFO:20/08/2018 11:07:53, Copio 3
+INFO:20/08/2018 11:07:53, Copio 3
+INFO:20/08/2018 11:07:53, Seleccionadoss 3 y 3
+INFO:20/08/2018 11:07:53, Copio 1
+INFO:20/08/2018 11:07:53, Copio 3
+INFO:20/08/2018 11:07:53, Seleccionadoss 1 y 3
+INFO:20/08/2018 11:07:53, Copio 2
+INFO:20/08/2018 11:07:53, Copio 4
+INFO:20/08/2018 11:07:53, Seleccionadoss 2 y 4
+INFO:20/08/2018 11:07:53, Copio 6
+INFO:20/08/2018 11:07:53, Copio 2
+INFO:20/08/2018 11:07:53, Seleccionadoss 6 y 2
+INFO:20/08/2018 11:07:53, Copio 1
+INFO:20/08/2018 11:07:53, Copio 5
+INFO:20/08/2018 11:07:53, Seleccionadoss 1 y 5
+INFO:20/08/2018 11:07:53, Copio 1
+INFO:20/08/2018 11:07:53, Copio 5
+INFO:20/08/2018 11:07:53, Seleccionadoss 1 y 5
+INFO:20/08/2018 11:07:53, Copio 3
+INFO:20/08/2018 11:07:53, Copio 7
+INFO:20/08/2018 11:07:53, Generación completada 11
+INFO:20/08/2018 11:09:33, Copio 2
+INFO:20/08/2018 11:09:33, Copio 8
+INFO:20/08/2018 11:09:33, Copio 3
+INFO:20/08/2018 11:09:33, Copio 10
+INFO:20/08/2018 11:09:33, Fitness: #### [166, 113, 102, 92]
+INFO:20/08/2018 11:09:33, Renumbering...
+INFO:20/08/2018 11:09:33, 4 genes have been renumbered.
+INFO:20/08/2018 11:09:33, Copio 2
+INFO:20/08/2018 11:09:33, Copio 1
+INFO:20/08/2018 11:09:33, Seleccionadoss 2 y 1
+INFO:20/08/2018 11:09:33, Copio 2
+INFO:20/08/2018 11:09:33, Copio 1
+INFO:20/08/2018 11:09:33, Seleccionadoss 2 y 1
+INFO:20/08/2018 11:09:33, Copio 4
+INFO:20/08/2018 11:09:33, Copio 4
+INFO:20/08/2018 11:09:33, Seleccionadoss 4 y 4
+INFO:20/08/2018 11:09:34, Copio 0
+INFO:20/08/2018 11:09:34, Copio 4
+INFO:20/08/2018 11:09:34, Seleccionadoss 0 y 4
+INFO:20/08/2018 11:09:34, Copio 5
+INFO:20/08/2018 11:09:34, Copio 3
+INFO:20/08/2018 11:09:34, Seleccionadoss 5 y 3
+INFO:20/08/2018 11:09:34, Copio 8
+INFO:20/08/2018 11:09:34, Copio 3
+INFO:20/08/2018 11:09:34, Seleccionadoss 8 y 3
+INFO:20/08/2018 11:09:34, Copio 2
+INFO:20/08/2018 11:09:34, Copio 2
+INFO:20/08/2018 11:09:34, Generación completada 12
+INFO:20/08/2018 11:11:26, Copio 1
+INFO:20/08/2018 11:11:26, Copio 7
+INFO:20/08/2018 11:11:27, Copio 4
+INFO:20/08/2018 11:11:27, Copio 0
+INFO:20/08/2018 11:11:27, Fitness: #### [149, 148, 126, 116]
+INFO:20/08/2018 11:11:27, Renumbering...
+INFO:20/08/2018 11:11:27, 4 genes have been renumbered.
+INFO:20/08/2018 11:11:27, Copio 1
+INFO:20/08/2018 11:11:27, Copio 0
+INFO:20/08/2018 11:11:27, Seleccionadoss 1 y 0
+INFO:20/08/2018 11:11:27, Copio 1
+INFO:20/08/2018 11:11:27, Copio 3
+INFO:20/08/2018 11:11:27, Seleccionadoss 1 y 3
+INFO:20/08/2018 11:11:27, Copio 2
+INFO:20/08/2018 11:11:27, Copio 5
+INFO:20/08/2018 11:11:27, Seleccionadoss 2 y 5
+INFO:20/08/2018 11:11:27, Copio 2
+INFO:20/08/2018 11:11:27, Copio 1
+INFO:20/08/2018 11:11:27, Seleccionadoss 2 y 1
+INFO:20/08/2018 11:11:27, Copio 7
+INFO:20/08/2018 11:11:27, Copio 5
+INFO:20/08/2018 11:11:27, Seleccionadoss 7 y 5
+INFO:20/08/2018 11:11:27, Copio 8
+INFO:20/08/2018 11:11:27, Copio 0
+INFO:20/08/2018 11:11:27, Seleccionadoss 8 y 0
+INFO:20/08/2018 11:11:27, Copio 3
+INFO:20/08/2018 11:11:28, Copio 5
+INFO:20/08/2018 11:11:28, Generación completada 13
+INFO:20/08/2018 11:13:27, Copio 3
+INFO:20/08/2018 11:13:27, Copio 6
+INFO:20/08/2018 11:13:27, Copio 2
+INFO:20/08/2018 11:13:27, Copio 10
+INFO:20/08/2018 11:13:27, Fitness: #### [145, 141, 137, 115]
+INFO:20/08/2018 11:13:27, Renumbering...
+INFO:20/08/2018 11:13:27, 4 genes have been renumbered.
+INFO:20/08/2018 11:13:27, Copio 3
+INFO:20/08/2018 11:13:27, Copio 2
+INFO:20/08/2018 11:13:27, Seleccionadoss 3 y 2
+INFO:20/08/2018 11:13:27, Copio 3
+INFO:20/08/2018 11:13:27, Copio 0
+INFO:20/08/2018 11:13:27, Seleccionadoss 3 y 0
+INFO:20/08/2018 11:13:27, Copio 4
+INFO:20/08/2018 11:13:27, Copio 0
+INFO:20/08/2018 11:13:27, Seleccionadoss 4 y 0
+INFO:20/08/2018 11:13:27, Copio 2
+INFO:20/08/2018 11:13:27, Copio 1
+INFO:20/08/2018 11:13:27, Seleccionadoss 2 y 1
+INFO:20/08/2018 11:13:27, Copio 7
+INFO:20/08/2018 11:13:27, Copio 5
+INFO:20/08/2018 11:13:27, Seleccionadoss 7 y 5
+INFO:20/08/2018 11:13:27, Copio 7
+INFO:20/08/2018 11:13:28, Copio 8
+INFO:20/08/2018 11:13:28, Seleccionadoss 7 y 8
+INFO:20/08/2018 11:13:28, Copio 9
+INFO:20/08/2018 11:13:28, Copio 9
+INFO:20/08/2018 11:13:28, Generación completada 14
+INFO:20/08/2018 11:15:11, Copio 2
+INFO:20/08/2018 11:15:11, Copio 10
+INFO:20/08/2018 11:15:11, Copio 1
+INFO:20/08/2018 11:15:11, Copio 6
+INFO:20/08/2018 11:15:11, Fitness: #### [169, 153, 101, 98]
+INFO:20/08/2018 11:15:11, Renumbering...
+INFO:20/08/2018 11:15:11, 4 genes have been renumbered.
+INFO:20/08/2018 11:15:11, Copio 3
+INFO:20/08/2018 11:15:11, Copio 0
+INFO:20/08/2018 11:15:11, Seleccionadoss 3 y 0
+INFO:20/08/2018 11:15:11, Copio 0
+INFO:20/08/2018 11:15:11, Copio 0
+INFO:20/08/2018 11:15:11, Seleccionadoss 0 y 0
+INFO:20/08/2018 11:15:11, Copio 0
+INFO:20/08/2018 11:15:11, Copio 1
+INFO:20/08/2018 11:15:11, Seleccionadoss 0 y 1
+INFO:20/08/2018 11:15:11, Copio 0
+INFO:20/08/2018 11:15:11, Copio 3
+INFO:20/08/2018 11:15:11, Seleccionadoss 0 y 3
+INFO:20/08/2018 11:15:11, Copio 6
+INFO:20/08/2018 11:15:11, Copio 6
+INFO:20/08/2018 11:15:12, Seleccionadoss 6 y 6
+INFO:20/08/2018 11:15:12, Copio 3
+INFO:20/08/2018 11:15:12, Copio 3
+INFO:20/08/2018 11:15:12, Seleccionadoss 3 y 3
+INFO:20/08/2018 11:15:12, Copio 9
+INFO:20/08/2018 11:15:12, Copio 2
+INFO:20/08/2018 11:15:12, Generación completada 15
+INFO:20/08/2018 11:17:01, Copio 3
+INFO:20/08/2018 11:17:01, Copio 2
+INFO:20/08/2018 11:17:01, Copio 6
+INFO:20/08/2018 11:17:01, Copio 5
+INFO:20/08/2018 11:17:01, Fitness: #### [197, 131, 115, 102]
+INFO:20/08/2018 11:17:01, Renumbering...
+INFO:20/08/2018 11:17:01, 4 genes have been renumbered.
+INFO:20/08/2018 11:17:01, Copio 3
+INFO:20/08/2018 11:17:01, Copio 1
+INFO:20/08/2018 11:17:01, Seleccionadoss 3 y 1
+INFO:20/08/2018 11:17:01, Copio 0
+INFO:20/08/2018 11:17:01, Copio 1
+INFO:20/08/2018 11:17:01, Seleccionadoss 0 y 1
+INFO:20/08/2018 11:17:01, Copio 4
+INFO:20/08/2018 11:17:01, Copio 0
+INFO:20/08/2018 11:17:01, Seleccionadoss 4 y 0
+INFO:20/08/2018 11:17:01, Copio 2
+INFO:20/08/2018 11:17:01, Copio 4
+INFO:20/08/2018 11:17:01, Seleccionadoss 2 y 4
+INFO:20/08/2018 11:17:02, Copio 5
+INFO:20/08/2018 11:17:02, Copio 0
+INFO:20/08/2018 11:17:02, Seleccionadoss 5 y 0
+INFO:20/08/2018 11:17:02, Copio 6
+INFO:20/08/2018 11:17:02, Copio 7
+INFO:20/08/2018 11:17:02, Seleccionadoss 6 y 7
+INFO:20/08/2018 11:17:02, Copio 3
+INFO:20/08/2018 11:17:02, Copio 4
+INFO:20/08/2018 11:17:02, Generación completada 16
+INFO:20/08/2018 11:19:14, Copio 1
+INFO:20/08/2018 11:19:14, Copio 3
+INFO:20/08/2018 11:19:14, Copio 5
+INFO:20/08/2018 11:19:14, Copio 6
+INFO:20/08/2018 11:19:14, Fitness: #### [282, 136, 128, 117]
+INFO:20/08/2018 11:19:14, Renumbering...
+INFO:20/08/2018 11:19:14, 4 genes have been renumbered.
+INFO:20/08/2018 11:19:14, Copio 0
+INFO:20/08/2018 11:19:14, Copio 3
+INFO:20/08/2018 11:19:15, Seleccionadoss 0 y 3
+INFO:20/08/2018 11:19:15, Copio 0
+INFO:20/08/2018 11:19:15, Copio 1
+INFO:20/08/2018 11:19:15, Seleccionadoss 0 y 1
+INFO:20/08/2018 11:19:15, Copio 1
+INFO:20/08/2018 11:19:15, Copio 1
+INFO:20/08/2018 11:19:15, Seleccionadoss 1 y 1
+INFO:20/08/2018 11:19:15, Copio 0
+INFO:20/08/2018 11:19:15, Copio 3
+INFO:20/08/2018 11:19:15, Seleccionadoss 0 y 3
+INFO:20/08/2018 11:19:15, Copio 3
+INFO:20/08/2018 11:19:15, Copio 4
+INFO:20/08/2018 11:19:15, Seleccionadoss 3 y 4
+INFO:20/08/2018 11:19:15, Copio 8
+INFO:20/08/2018 11:19:15, Copio 5
+INFO:20/08/2018 11:19:15, Seleccionadoss 8 y 5
+INFO:20/08/2018 11:19:15, Copio 4
+INFO:20/08/2018 11:19:15, Copio 4
+INFO:20/08/2018 11:19:15, Generación completada 17
+INFO:20/08/2018 11:20:48, Copio 0
+INFO:20/08/2018 11:20:48, Copio 5
+INFO:20/08/2018 11:20:48, Copio 2
+INFO:20/08/2018 11:20:49, Copio 1
+INFO:20/08/2018 11:20:49, Fitness: #### [134, 130, 120, 92]
+INFO:20/08/2018 11:20:49, Renumbering...
+INFO:20/08/2018 11:20:49, 4 genes have been renumbered.
+INFO:20/08/2018 11:20:49, Copio 3
+INFO:20/08/2018 11:20:49, Copio 1
+INFO:20/08/2018 11:20:49, Seleccionadoss 3 y 1
+INFO:20/08/2018 11:20:49, Copio 1
+INFO:20/08/2018 11:20:49, Copio 3
+INFO:20/08/2018 11:20:49, Seleccionadoss 1 y 3
+INFO:20/08/2018 11:20:49, Copio 1
+INFO:20/08/2018 11:20:49, Copio 3
+INFO:20/08/2018 11:20:49, Seleccionadoss 1 y 3
+INFO:20/08/2018 11:20:49, Copio 0
+INFO:20/08/2018 11:20:49, Copio 6
+INFO:20/08/2018 11:20:49, Seleccionadoss 0 y 6
+INFO:20/08/2018 11:20:49, Copio 5
+INFO:20/08/2018 11:20:49, Copio 7
+INFO:20/08/2018 11:20:49, Seleccionadoss 5 y 7
+INFO:20/08/2018 11:20:49, Copio 4
+INFO:20/08/2018 11:20:49, Copio 8
+INFO:20/08/2018 11:20:49, Seleccionadoss 4 y 8
+INFO:20/08/2018 11:20:49, Copio 9
+INFO:20/08/2018 11:20:49, Copio 0
+INFO:20/08/2018 11:20:50, Generación completada 18
+INFO:20/08/2018 11:22:26, Copio 5
+INFO:20/08/2018 11:22:26, Copio 1
+INFO:20/08/2018 11:22:26, Copio 2
+INFO:20/08/2018 11:22:26, Copio 4
+INFO:20/08/2018 11:22:26, Fitness: #### [138, 101, 98, 95]
+INFO:20/08/2018 11:22:26, Renumbering...
+INFO:20/08/2018 11:22:26, 4 genes have been renumbered.
+INFO:20/08/2018 11:22:26, Copio 3
+INFO:20/08/2018 11:22:26, Copio 2
+INFO:20/08/2018 11:22:26, Seleccionadoss 3 y 2
+INFO:20/08/2018 11:22:26, Copio 4
+INFO:20/08/2018 11:22:26, Copio 2
+INFO:20/08/2018 11:22:26, Seleccionadoss 4 y 2
+INFO:20/08/2018 11:22:26, Copio 1
+INFO:20/08/2018 11:22:26, Copio 4
+INFO:20/08/2018 11:22:26, Seleccionadoss 1 y 4
+INFO:20/08/2018 11:22:26, Copio 2
+INFO:20/08/2018 11:22:26, Copio 4
+INFO:20/08/2018 11:22:26, Seleccionadoss 2 y 4
+INFO:20/08/2018 11:22:26, Copio 4
+INFO:20/08/2018 11:22:26, Copio 0
+INFO:20/08/2018 11:22:27, Seleccionadoss 4 y 0
+INFO:20/08/2018 11:22:27, Copio 8
+INFO:20/08/2018 11:22:27, Copio 3
+INFO:20/08/2018 11:22:27, Seleccionadoss 8 y 3
+INFO:20/08/2018 11:22:27, Copio 7
+INFO:20/08/2018 11:22:27, Copio 3
+INFO:20/08/2018 11:22:27, Generación completada 19
+INFO:20/08/2018 11:24:17, Copio 9
+INFO:20/08/2018 11:24:17, Copio 2
+INFO:20/08/2018 11:24:17, Copio 1
+INFO:20/08/2018 11:24:17, Copio 4
+INFO:20/08/2018 11:24:17, Fitness: #### [215, 130, 124, 113]
+INFO:20/08/2018 11:24:17, Renumbering...
+INFO:20/08/2018 11:24:17, 4 genes have been renumbered.
+INFO:20/08/2018 11:24:17, Copio 0
+INFO:20/08/2018 11:24:17, Copio 0
+INFO:20/08/2018 11:24:17, Seleccionadoss 0 y 0
+INFO:20/08/2018 11:24:18, Copio 0
+INFO:20/08/2018 11:24:18, Copio 1
+INFO:20/08/2018 11:24:18, Seleccionadoss 0 y 1
+INFO:20/08/2018 11:24:18, Copio 0
+INFO:20/08/2018 11:24:18, Copio 2
+INFO:20/08/2018 11:24:18, Seleccionadoss 0 y 2
+INFO:20/08/2018 11:24:18, Copio 5
+INFO:20/08/2018 11:24:18, Copio 2
+INFO:20/08/2018 11:24:18, Seleccionadoss 5 y 2
+INFO:20/08/2018 11:24:18, Copio 0
+INFO:20/08/2018 11:24:18, Copio 1
+INFO:20/08/2018 11:24:18, Seleccionadoss 0 y 1
+INFO:20/08/2018 11:24:18, Copio 3
+INFO:20/08/2018 11:24:18, Copio 1
+INFO:20/08/2018 11:24:18, Seleccionadoss 3 y 1
+INFO:20/08/2018 11:24:18, Copio 6
+INFO:20/08/2018 11:24:18, Copio 4
+INFO:20/08/2018 11:24:18, Generación completada 20
+INFO:20/08/2018 11:25:58, Copio 4
+INFO:20/08/2018 11:25:59, Copio 3
+INFO:20/08/2018 11:25:59, Copio 5
+INFO:20/08/2018 11:25:59, Copio 6
+INFO:20/08/2018 11:25:59, Fitness: #### [214, 139, 117, 98]
+INFO:20/08/2018 11:25:59, Renumbering...
+INFO:20/08/2018 11:25:59, 4 genes have been renumbered.
+INFO:20/08/2018 11:25:59, Copio 1
+INFO:20/08/2018 11:25:59, Copio 3
+INFO:20/08/2018 11:25:59, Seleccionadoss 1 y 3
+INFO:20/08/2018 11:25:59, Copio 2
+INFO:20/08/2018 11:25:59, Copio 3
+INFO:20/08/2018 11:25:59, Seleccionadoss 2 y 3
+INFO:20/08/2018 11:25:59, Copio 0
+INFO:20/08/2018 11:25:59, Copio 5
+INFO:20/08/2018 11:25:59, Seleccionadoss 0 y 5
+INFO:20/08/2018 11:25:59, Copio 5
+INFO:20/08/2018 11:25:59, Copio 6
+INFO:20/08/2018 11:25:59, Seleccionadoss 5 y 6
+INFO:20/08/2018 11:25:59, Copio 3
+INFO:20/08/2018 11:25:59, Copio 1
+INFO:20/08/2018 11:25:59, Seleccionadoss 3 y 1
+INFO:20/08/2018 11:25:59, Copio 2
+INFO:20/08/2018 11:26:00, Copio 8
+INFO:20/08/2018 11:26:00, Seleccionadoss 2 y 8
+INFO:20/08/2018 11:26:00, Copio 6
+INFO:20/08/2018 11:26:00, Copio 0
+INFO:20/08/2018 11:26:00, Generación completada 21
+INFO:20/08/2018 11:28:15, Copio 0
+INFO:20/08/2018 11:28:15, Copio 11
+INFO:20/08/2018 11:28:16, Copio 8
+INFO:20/08/2018 11:28:16, Copio 3
+INFO:20/08/2018 11:28:16, Fitness: #### [257, 230, 136, 129]
+INFO:20/08/2018 11:28:16, Renumbering...
+INFO:20/08/2018 11:28:16, 4 genes have been renumbered.
+INFO:20/08/2018 11:28:16, Copio 1
+INFO:20/08/2018 11:28:16, Copio 3
+INFO:20/08/2018 11:28:16, Seleccionadoss 1 y 3
+INFO:20/08/2018 11:28:16, Copio 1
+INFO:20/08/2018 11:28:16, Copio 3
+INFO:20/08/2018 11:28:16, Seleccionadoss 1 y 3
+INFO:20/08/2018 11:28:16, Copio 5
+INFO:20/08/2018 11:28:16, Copio 3
+INFO:20/08/2018 11:28:16, Seleccionadoss 5 y 3
+INFO:20/08/2018 11:28:16, Copio 2
+INFO:20/08/2018 11:28:16, Copio 2
+INFO:20/08/2018 11:28:16, Seleccionadoss 2 y 2
+INFO:20/08/2018 11:28:16, Copio 4
+INFO:20/08/2018 11:28:16, Copio 2
+INFO:20/08/2018 11:28:16, Seleccionadoss 4 y 2
+INFO:20/08/2018 11:28:16, Copio 8
+INFO:20/08/2018 11:28:17, Copio 0
+INFO:20/08/2018 11:28:17, Seleccionadoss 8 y 0
+INFO:20/08/2018 11:28:17, Copio 4
+INFO:20/08/2018 11:28:17, Copio 4
+INFO:20/08/2018 11:28:17, Generación completada 22
+INFO:20/08/2018 11:30:40, Copio 8
+INFO:20/08/2018 11:30:40, Copio 10
+INFO:20/08/2018 11:30:40, Copio 5
+INFO:20/08/2018 11:30:40, Copio 7
+INFO:20/08/2018 11:30:40, Fitness: #### [220, 216, 155, 147]
+INFO:20/08/2018 11:30:40, Renumbering...
+INFO:20/08/2018 11:30:40, 4 genes have been renumbered.
+INFO:20/08/2018 11:30:40, Copio 1
+INFO:20/08/2018 11:30:40, Copio 1
+INFO:20/08/2018 11:30:40, Seleccionadoss 1 y 1
+INFO:20/08/2018 11:30:40, Copio 1
+INFO:20/08/2018 11:30:40, Copio 1
+INFO:20/08/2018 11:30:40, Seleccionadoss 1 y 1
+INFO:20/08/2018 11:30:40, Copio 0
+INFO:20/08/2018 11:30:40, Copio 2
+INFO:20/08/2018 11:30:40, Seleccionadoss 0 y 2
+INFO:20/08/2018 11:30:40, Copio 3
+INFO:20/08/2018 11:30:40, Copio 1
+INFO:20/08/2018 11:30:40, Seleccionadoss 3 y 1
+INFO:20/08/2018 11:30:40, Copio 0
+INFO:20/08/2018 11:30:40, Copio 6
+INFO:20/08/2018 11:30:40, Seleccionadoss 0 y 6
+INFO:20/08/2018 11:30:41, Copio 2
+INFO:20/08/2018 11:30:41, Copio 6
+INFO:20/08/2018 11:30:41, Seleccionadoss 2 y 6
+INFO:20/08/2018 11:30:41, Copio 8
+INFO:20/08/2018 11:30:41, Copio 9
+INFO:20/08/2018 11:30:41, Generación completada 23
+INFO:20/08/2018 11:32:46, Copio 7
+INFO:20/08/2018 11:32:46, Copio 5
+INFO:20/08/2018 11:32:46, Copio 2
+INFO:20/08/2018 11:32:46, Copio 9
+INFO:20/08/2018 11:32:46, Fitness: #### [225, 220, 210, 130]
+INFO:20/08/2018 11:32:46, Renumbering...
+INFO:20/08/2018 11:32:46, 4 genes have been renumbered.
+INFO:20/08/2018 11:32:46, Copio 1
+INFO:20/08/2018 11:32:46, Copio 1
+INFO:20/08/2018 11:32:46, Seleccionadoss 1 y 1
+INFO:20/08/2018 11:32:46, Copio 1
+INFO:20/08/2018 11:32:46, Copio 4
+INFO:20/08/2018 11:32:46, Seleccionadoss 1 y 4
+INFO:20/08/2018 11:32:46, Copio 3
+INFO:20/08/2018 11:32:46, Copio 1
+INFO:20/08/2018 11:32:46, Seleccionadoss 3 y 1
+INFO:20/08/2018 11:32:46, Copio 3
+INFO:20/08/2018 11:32:47, Copio 4
+INFO:20/08/2018 11:32:47, Seleccionadoss 3 y 4
+INFO:20/08/2018 11:32:47, Copio 4
+INFO:20/08/2018 11:32:47, Copio 0
+INFO:20/08/2018 11:32:47, Seleccionadoss 4 y 0
+INFO:20/08/2018 11:32:47, Copio 8
+INFO:20/08/2018 11:32:47, Copio 2
+INFO:20/08/2018 11:32:47, Seleccionadoss 8 y 2
+INFO:20/08/2018 11:32:47, Copio 2
+INFO:20/08/2018 11:32:47, Copio 6
+INFO:20/08/2018 11:32:47, Generación completada 24
+INFO:20/08/2018 11:34:40, Copio 11
+INFO:20/08/2018 11:34:40, Copio 2
+INFO:20/08/2018 11:34:40, Copio 6
+INFO:20/08/2018 11:34:40, Copio 8
+INFO:20/08/2018 11:34:40, Fitness: #### [185, 127, 127, 114]
+INFO:20/08/2018 11:34:40, Renumbering...
+INFO:20/08/2018 11:34:40, 4 genes have been renumbered.
+INFO:20/08/2018 11:34:40, Copio 2
+INFO:20/08/2018 11:34:40, Copio 2
+INFO:20/08/2018 11:34:40, Seleccionadoss 2 y 2
+INFO:20/08/2018 11:34:41, Copio 1
+INFO:20/08/2018 11:34:41, Copio 0
+INFO:20/08/2018 11:34:41, Seleccionadoss 1 y 0
+INFO:20/08/2018 11:34:41, Copio 5
+INFO:20/08/2018 11:34:41, Copio 3
+INFO:20/08/2018 11:34:41, Seleccionadoss 5 y 3
+INFO:20/08/2018 11:34:41, Copio 0
+INFO:20/08/2018 11:34:41, Copio 5
+INFO:20/08/2018 11:34:41, Seleccionadoss 0 y 5
+INFO:20/08/2018 11:34:41, Copio 0
+INFO:20/08/2018 11:34:41, Copio 7
+INFO:20/08/2018 11:34:41, Seleccionadoss 0 y 7
+INFO:20/08/2018 11:34:41, Copio 7
+INFO:20/08/2018 11:34:41, Copio 8
+INFO:20/08/2018 11:34:41, Seleccionadoss 7 y 8
+INFO:20/08/2018 11:34:41, Copio 7
+INFO:20/08/2018 11:34:41, Copio 6
+INFO:20/08/2018 11:34:42, Generación completada 25
+INFO:20/08/2018 11:36:30, Copio 7
+INFO:20/08/2018 11:36:31, Copio 1
+INFO:20/08/2018 11:36:31, Copio 6
+INFO:20/08/2018 11:36:31, Copio 0
+INFO:20/08/2018 11:36:31, Fitness: #### [174, 138, 131, 113]
+INFO:20/08/2018 11:36:31, Renumbering...
+INFO:20/08/2018 11:36:31, 4 genes have been renumbered.
+INFO:20/08/2018 11:36:31, Copio 0
+INFO:20/08/2018 11:36:31, Copio 1
+INFO:20/08/2018 11:36:31, Seleccionadoss 0 y 1
+INFO:20/08/2018 11:36:31, Copio 0
+INFO:20/08/2018 11:36:31, Copio 3
+INFO:20/08/2018 11:36:31, Seleccionadoss 0 y 3
+INFO:20/08/2018 11:36:31, Copio 1
+INFO:20/08/2018 11:36:31, Copio 1
+INFO:20/08/2018 11:36:31, Seleccionadoss 1 y 1
+INFO:20/08/2018 11:36:31, Copio 1
+INFO:20/08/2018 11:36:31, Copio 6
+INFO:20/08/2018 11:36:31, Seleccionadoss 1 y 6
+INFO:20/08/2018 11:36:31, Copio 1
+INFO:20/08/2018 11:36:31, Copio 6
+INFO:20/08/2018 11:36:31, Seleccionadoss 1 y 6
+INFO:20/08/2018 11:36:31, Copio 8
+INFO:20/08/2018 11:36:31, Copio 8
+INFO:20/08/2018 11:36:31, Seleccionadoss 8 y 8
+INFO:20/08/2018 11:36:31, Copio 0
+INFO:20/08/2018 11:36:32, Copio 10
+INFO:20/08/2018 11:36:32, Generación completada 26
+INFO:20/08/2018 11:38:33, Copio 1
+INFO:20/08/2018 11:38:33, Copio 3
+INFO:20/08/2018 11:38:33, Copio 11
+INFO:20/08/2018 11:38:33, Copio 5
+INFO:20/08/2018 11:38:33, Fitness: #### [177, 145, 140, 138]
+INFO:20/08/2018 11:38:33, Renumbering...
+INFO:20/08/2018 11:38:33, 4 genes have been renumbered.
+INFO:20/08/2018 11:38:33, Copio 0
+INFO:20/08/2018 11:38:33, Copio 2
+INFO:20/08/2018 11:38:33, Seleccionadoss 0 y 2
+INFO:20/08/2018 11:38:33, Copio 0
+INFO:20/08/2018 11:38:33, Copio 4
+INFO:20/08/2018 11:38:33, Seleccionadoss 0 y 4
+INFO:20/08/2018 11:38:33, Copio 5
+INFO:20/08/2018 11:38:33, Copio 3
+INFO:20/08/2018 11:38:33, Seleccionadoss 5 y 3
+INFO:20/08/2018 11:38:33, Copio 5
+INFO:20/08/2018 11:38:33, Copio 6
+INFO:20/08/2018 11:38:33, Seleccionadoss 5 y 6
+INFO:20/08/2018 11:38:33, Copio 5
+INFO:20/08/2018 11:38:33, Copio 2
+INFO:20/08/2018 11:38:34, Seleccionadoss 5 y 2
+INFO:20/08/2018 11:38:34, Copio 4
+INFO:20/08/2018 11:38:34, Copio 2
+INFO:20/08/2018 11:38:34, Seleccionadoss 4 y 2
+INFO:20/08/2018 11:38:34, Copio 2
+INFO:20/08/2018 11:38:34, Copio 7
+INFO:20/08/2018 11:38:34, Generación completada 27
+INFO:20/08/2018 11:40:53, Copio 4
+INFO:20/08/2018 11:40:53, Copio 9
+INFO:20/08/2018 11:40:53, Copio 0
+INFO:20/08/2018 11:40:53, Copio 5
+INFO:20/08/2018 11:40:53, Fitness: #### [201, 165, 163, 141]
+INFO:20/08/2018 11:40:53, Renumbering...
+INFO:20/08/2018 11:40:53, 4 genes have been renumbered.
+INFO:20/08/2018 11:40:53, Copio 0
+INFO:20/08/2018 11:40:53, Copio 1
+INFO:20/08/2018 11:40:53, Seleccionadoss 0 y 1
+INFO:20/08/2018 11:40:53, Copio 3
+INFO:20/08/2018 11:40:53, Copio 3
+INFO:20/08/2018 11:40:53, Seleccionadoss 3 y 3
+INFO:20/08/2018 11:40:53, Copio 3
+INFO:20/08/2018 11:40:54, Copio 1
+INFO:20/08/2018 11:40:54, Seleccionadoss 3 y 1
+INFO:20/08/2018 11:40:54, Copio 4
+INFO:20/08/2018 11:40:54, Copio 0
+INFO:20/08/2018 11:40:54, Seleccionadoss 4 y 0
+INFO:20/08/2018 11:40:54, Copio 3
+INFO:20/08/2018 11:40:54, Copio 2
+INFO:20/08/2018 11:40:54, Seleccionadoss 3 y 2
+INFO:20/08/2018 11:40:54, Copio 1
+INFO:20/08/2018 11:40:54, Copio 8
+INFO:20/08/2018 11:40:54, Seleccionadoss 1 y 8
+INFO:20/08/2018 11:40:54, Copio 9
+INFO:20/08/2018 11:40:54, Copio 5
+INFO:20/08/2018 11:40:54, Generación completada 28
+INFO:20/08/2018 11:43:10, Copio 9
+INFO:20/08/2018 11:43:10, Copio 3
+INFO:20/08/2018 11:43:10, Copio 0
+INFO:20/08/2018 11:43:10, Copio 6
+INFO:20/08/2018 11:43:10, Fitness: #### [214, 195, 162, 154]
+INFO:20/08/2018 11:43:10, Renumbering...
+INFO:20/08/2018 11:43:10, 4 genes have been renumbered.
+INFO:20/08/2018 11:43:10, Copio 2
+INFO:20/08/2018 11:43:10, Copio 2
+INFO:20/08/2018 11:43:11, Seleccionadoss 2 y 2
+INFO:20/08/2018 11:43:11, Copio 2
+INFO:20/08/2018 11:43:11, Copio 2
+INFO:20/08/2018 11:43:11, Seleccionadoss 2 y 2
+INFO:20/08/2018 11:43:11, Copio 5
+INFO:20/08/2018 11:43:11, Copio 3
+INFO:20/08/2018 11:43:11, Seleccionadoss 5 y 3
+INFO:20/08/2018 11:43:11, Copio 2
+INFO:20/08/2018 11:43:11, Copio 1
+INFO:20/08/2018 11:43:11, Seleccionadoss 2 y 1
+INFO:20/08/2018 11:43:11, Copio 6
+INFO:20/08/2018 11:43:11, Copio 2
+INFO:20/08/2018 11:43:11, Seleccionadoss 6 y 2
+INFO:20/08/2018 11:43:11, Copio 6
+INFO:20/08/2018 11:43:11, Copio 1
+INFO:20/08/2018 11:43:11, Seleccionadoss 6 y 1
+INFO:20/08/2018 11:43:11, Copio 3
+INFO:20/08/2018 11:43:11, Copio 10
+INFO:20/08/2018 11:43:11, Generación completada 29
+INFO:20/08/2018 11:43:11, Modelo guardado en ./tmp/0/model
+INFO:20/08/2018 11:43:12, Modelo guardado en ./tmp/1/model
+INFO:20/08/2018 11:43:12, Modelo guardado en ./tmp/2/model
+INFO:20/08/2018 11:43:12, Modelo guardado en ./tmp/3/model
+INFO:20/08/2018 11:43:12, Modelo guardado en ./tmp/4/model
+INFO:20/08/2018 11:43:12, Modelo guardado en ./tmp/5/model
+INFO:20/08/2018 11:43:12, Modelo guardado en ./tmp/6/model
+INFO:20/08/2018 11:43:12, Modelo guardado en ./tmp/7/model
+INFO:20/08/2018 11:43:13, Modelo guardado en ./tmp/8/model
+INFO:20/08/2018 11:43:13, Modelo guardado en ./tmp/9/model
+INFO:20/08/2018 11:43:13, Modelo guardado en ./tmp/10/model
+INFO:20/08/2018 11:43:13, Modelo guardado en ./tmp/11/model
+INFO:20/08/2018 11:50:46, Programa lanzado. Datos: Número de genes: 12, Probabilidad de mutación: 0.2, Genes seleccionados: 4
+INFO:20/08/2018 11:50:46, Se ha elegido el modo TRAINING
+INFO:20/08/2018 11:50:46, Genoma importado
+INFO:20/08/2018 11:50:49, Se va a entrenar durante 30 generaciones
+INFO:20/08/2018 11:50:49, Restoring parameters from ./7hid-30gen/0\model
+INFO:20/08/2018 11:50:49, Restored model 0
+INFO:20/08/2018 14:33:34, Programa lanzado. Datos: Número de genes: 12, Probabilidad de mutación: 0.2, Genes seleccionados: 4
+INFO:20/08/2018 14:33:34, Se ha elegido el modo TRAINING
+INFO:20/08/2018 14:33:34, Genoma importado
+INFO:20/08/2018 14:33:38, Se va a entrenar durante 30 generaciones
+INFO:20/08/2018 14:33:38, Restoring parameters from ./7hid-30gen/0\model
+INFO:20/08/2018 14:33:39, Restored model 0
+INFO:20/08/2018 14:33:57, Restoring parameters from ./7hid-30gen/1\model
+INFO:20/08/2018 14:33:57, Restored model 1
+INFO:20/08/2018 14:34:02, Restoring parameters from ./7hid-30gen/2\model
+INFO:20/08/2018 14:34:02, Restored model 2
+INFO:20/08/2018 14:39:56, Programa lanzado. Datos: Número de genes: 12, Probabilidad de mutación: 0.4, Genes seleccionados: 3
+INFO:20/08/2018 14:39:56, Se ha elegido el modo TRAINING
+INFO:20/08/2018 14:39:56, Genoma importado
+INFO:20/08/2018 14:39:58, Se va a entrenar durante 30 generaciones
+INFO:20/08/2018 14:41:03, Copio 7
+INFO:20/08/2018 14:41:03, Copio 9
+INFO:20/08/2018 14:41:03, Copio 11
+INFO:20/08/2018 14:41:03, Fitness: #### [62, 60, 60]
+INFO:20/08/2018 14:41:03, Renumbering...
+INFO:20/08/2018 14:41:03, 3 genes have been renumbered.
+INFO:20/08/2018 14:41:03, Copio 1
+INFO:20/08/2018 14:41:03, Copio 2
+INFO:20/08/2018 14:41:03, Seleccionadoss 1 y 2
+INFO:20/08/2018 14:41:03, Copio 2
+INFO:20/08/2018 14:41:03, Copio 3
+INFO:20/08/2018 14:41:03, Seleccionadoss 2 y 3
+INFO:20/08/2018 14:41:03, Copio 0
+INFO:20/08/2018 14:41:03, Copio 2
+INFO:20/08/2018 14:41:04, Seleccionadoss 0 y 2
+INFO:20/08/2018 14:41:04, Copio 2
+INFO:20/08/2018 14:41:04, Copio 1
+INFO:20/08/2018 14:41:04, Seleccionadoss 2 y 1
+INFO:20/08/2018 14:41:04, Copio 1
+INFO:20/08/2018 14:41:04, Copio 5
+INFO:20/08/2018 14:41:04, Seleccionadoss 1 y 5
+INFO:20/08/2018 14:41:04, Copio 5
+INFO:20/08/2018 14:41:04, Copio 6
+INFO:20/08/2018 14:41:04, Seleccionadoss 5 y 6
+INFO:20/08/2018 14:41:04, Copio 3
+INFO:20/08/2018 14:41:04, Copio 0
+INFO:20/08/2018 14:41:04, Seleccionadoss 3 y 0
+INFO:20/08/2018 14:41:04, Copio 8
+INFO:20/08/2018 14:41:04, Copio 5
+INFO:20/08/2018 14:41:04, Generación completada 1
+INFO:20/08/2018 14:42:19, Copio 10
+INFO:20/08/2018 14:42:19, Copio 2
+INFO:20/08/2018 14:42:19, Copio 6
+INFO:20/08/2018 14:42:19, Fitness: #### [94, 85, 70]
+INFO:20/08/2018 14:42:19, Renumbering...
+INFO:20/08/2018 14:42:19, 3 genes have been renumbered.
+INFO:20/08/2018 14:42:19, Copio 1
+INFO:20/08/2018 14:42:19, Copio 2
+INFO:20/08/2018 14:42:19, Seleccionadoss 1 y 2
+INFO:20/08/2018 14:42:19, Copio 0
+INFO:20/08/2018 14:42:19, Copio 0
+INFO:20/08/2018 14:42:19, Seleccionadoss 0 y 0
+INFO:20/08/2018 14:42:19, Copio 1
+INFO:20/08/2018 14:42:19, Copio 0
+INFO:20/08/2018 14:42:19, Seleccionadoss 1 y 0
+INFO:20/08/2018 14:42:19, Copio 0
+INFO:20/08/2018 14:42:19, Copio 4
+INFO:20/08/2018 14:42:19, Seleccionadoss 0 y 4
+INFO:20/08/2018 14:42:20, Copio 2
+INFO:20/08/2018 14:42:20, Copio 6
+INFO:20/08/2018 14:42:20, Seleccionadoss 2 y 6
+INFO:20/08/2018 14:42:20, Copio 5
+INFO:20/08/2018 14:42:20, Copio 5
+INFO:20/08/2018 14:42:20, Seleccionadoss 5 y 5
+INFO:20/08/2018 14:42:20, Copio 7
+INFO:20/08/2018 14:42:20, Copio 2
+INFO:20/08/2018 14:42:20, Seleccionadoss 7 y 2
+INFO:20/08/2018 14:42:20, Copio 9
+INFO:20/08/2018 14:42:20, Copio 3
+INFO:20/08/2018 14:42:20, Generación completada 2
+INFO:20/08/2018 14:43:29, Copio 10
+INFO:20/08/2018 14:43:29, Copio 2
+INFO:20/08/2018 14:43:29, Copio 6
+INFO:20/08/2018 14:43:29, Fitness: #### [79, 75, 60]
+INFO:20/08/2018 14:43:29, Renumbering...
+INFO:20/08/2018 14:43:29, 3 genes have been renumbered.
+INFO:20/08/2018 14:43:29, Copio 1
+INFO:20/08/2018 14:43:30, Copio 2
+INFO:20/08/2018 14:43:30, Seleccionadoss 1 y 2
+INFO:20/08/2018 14:43:30, Copio 0
+INFO:20/08/2018 14:43:30, Copio 3
+INFO:20/08/2018 14:43:30, Seleccionadoss 0 y 3
+INFO:20/08/2018 14:43:30, Copio 0
+INFO:20/08/2018 14:43:30, Copio 1
+INFO:20/08/2018 14:43:30, Seleccionadoss 0 y 1
+INFO:20/08/2018 14:43:30, Copio 3
+INFO:20/08/2018 14:43:30, Copio 3
+INFO:20/08/2018 14:43:30, Seleccionadoss 3 y 3
+INFO:20/08/2018 14:43:30, Copio 1
+INFO:20/08/2018 14:43:30, Copio 3
+INFO:20/08/2018 14:43:30, Seleccionadoss 1 y 3
+INFO:20/08/2018 14:43:30, Copio 0
+INFO:20/08/2018 14:43:30, Copio 2
+INFO:20/08/2018 14:43:30, Seleccionadoss 0 y 2
+INFO:20/08/2018 14:43:30, Copio 7
+INFO:20/08/2018 14:43:30, Copio 1
+INFO:20/08/2018 14:43:30, Seleccionadoss 7 y 1
+INFO:20/08/2018 14:43:31, Copio 4
+INFO:20/08/2018 14:43:31, Copio 10
+INFO:20/08/2018 14:43:31, Generación completada 3
+INFO:20/08/2018 14:44:51, Copio 2
+INFO:20/08/2018 14:44:51, Copio 1
+INFO:20/08/2018 14:44:51, Copio 10
+INFO:20/08/2018 14:44:51, Fitness: #### [106, 86, 78]
+INFO:20/08/2018 14:44:51, Renumbering...
+INFO:20/08/2018 14:44:51, 3 genes have been renumbered.
+INFO:20/08/2018 14:44:51, Copio 1
+INFO:20/08/2018 14:44:51, Copio 0
+INFO:20/08/2018 14:44:51, Seleccionadoss 1 y 0
+INFO:20/08/2018 14:44:51, Copio 2
+INFO:20/08/2018 14:44:51, Copio 3
+INFO:20/08/2018 14:44:51, Seleccionadoss 2 y 3
+INFO:20/08/2018 14:44:51, Copio 4
+INFO:20/08/2018 14:44:51, Copio 4
+INFO:20/08/2018 14:44:51, Seleccionadoss 4 y 4
+INFO:20/08/2018 14:44:51, Copio 0
+INFO:20/08/2018 14:44:51, Copio 5
+INFO:20/08/2018 14:44:51, Seleccionadoss 0 y 5
+INFO:20/08/2018 14:44:51, Copio 1
+INFO:20/08/2018 14:44:51, Copio 2
+INFO:20/08/2018 14:44:51, Seleccionadoss 1 y 2
+INFO:20/08/2018 14:44:52, Copio 5
+INFO:20/08/2018 14:44:52, Copio 4
+INFO:20/08/2018 14:44:52, Seleccionadoss 5 y 4
+INFO:20/08/2018 14:44:52, Copio 3
+INFO:20/08/2018 14:44:52, Copio 5
+INFO:20/08/2018 14:44:52, Seleccionadoss 3 y 5
+INFO:20/08/2018 14:44:52, Copio 7
+INFO:20/08/2018 14:44:52, Copio 7
+INFO:20/08/2018 14:44:52, Generación completada 4
