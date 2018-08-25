@@ -9,7 +9,7 @@ numGenes = 12
 mutationProb = 0.1
 selection = 4
 keys.break_program = False
-folder = './tmp'
+folder = ''
 mode = 'TRAINING'
 nGenerations = 90
 
