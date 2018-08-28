@@ -1,9 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
-import time
-import pyautogui
 
 import logging
 from shutil import copy2
@@ -25,9 +22,9 @@ init_script = "document.getElementsByClassName('runner-canvas')[0].id = 'runner-
  * Game class: Selenium interfacing between the python and browser* Game
 * __init__():  Launch the broswer window using the attributes in chrome_options
 * get_crashed() : return true if the agent as crashed on an obstacles. Gets javascript variable from game decribing the state
-* get_playing(): true if game in progress, false is crashed or paused
+* get_playing(): true if game in progress, false if crashed
 * restart() : sends a signal to browser-javascript to restart the game
-* press_up(): sends a single to press up get to the browser
+* press_up()/press_down(): sends a single to press up/down get to the browser
 * get_score(): gets current game score from javascript variables.
 * pause(): pause the game
 * resume(): resume a paused game if not crashed
@@ -50,15 +47,6 @@ class Game:
         self.press_up()
         self.return_nor()
 
-    def start(self):
-        chrome_options = Options()
-        chrome_options.add_argument("disable-infobars")
-        chrome_options.add_argument("--mute-audio")
-        self._driver = webdriver.Chrome(executable_path=chrome_driver_path, chrome_options=chrome_options)
-        self._driver.set_window_position(x=-10, y=0)
-        self._driver.get('chrome://dino')
-        self._driver.execute_script(init_script)
-        self.press_up()
     def get_crashed(self):
         return self._driver.execute_script("return Runner.instance_.crashed")
     def get_playing(self):
@@ -66,30 +54,18 @@ class Game:
     def restart(self):
         self._driver.execute_script("Runner.instance_.restart()")
     def press_up(self):
-        #pyautogui.keyUp('down')
-        #pyautogui.keyDown('up')
-        #self._driver.find_element_by_tag_name("body").key_up(Keys.ARROW_DOWN).perform()
-        #ActionChains(self._driver).key_up(Keys.CONTROL).perform()
-        #ActionChains(self._driver).key_down(Keys.SHIFT).perform()
         self._driver.find_element_by_tag_name("body").send_keys(Keys.ARROW_UP)
     def press_down(self):
-        #pyautogui.keyUp('up')
-        #pyautogui.keyDown('down')
-        #ActionChains(self._driver).key_up(Keys.SHIFT).perform()
-        #ActionChains(self._driver).key_down(Keys.CONTROL).perform()
         self._driver.find_element_by_tag_name("body").send_keys(Keys.ARROW_DOWN)
     def return_nor(self):
         pass
-        #pyautogui.keyUp('up')
-        #pyautogui.keyUp('down')
-        #ActionChains(self._driver).key_up(Keys.CONTROL).perform()
-        #ActionChains(self._driver).key_up(Keys.SHIFT).perform()
     def get_score(self):
         score_array = self._driver.execute_script("return Runner.instance_.distanceMeter.digits")
-        score = ''.join(score_array) # the javascript object is of type array with score in the formate[1,0,0] which is 100.
+        score = ''.join(score_array) # the javascript object is of type array with score in the format [1,0,0] which is 100.
         return int(score)
     def get_speed(self):
         try:
+            # Some obstacles have an offset, so that has to be added.
             speed_offset = self._driver.execute_script("return (Runner.instance_.horizon.obstacles)[0].speedOffset")
         except:
             speed_offset = 0
@@ -105,7 +81,7 @@ class Game:
         except:
             pos_obs = 0
         dino_width = self._driver.execute_script("return Runner.instance_.tRex.config.WIDTH_DUCK")
-        #if pos_obs > dino_width:
+        #If there is no object, return a high number.
         if pos_obs != 0:
             return pos_obs - dino_width
         else:
@@ -120,10 +96,6 @@ class Game:
             return pixels - (height+ypos)
         except:
             return pixels
-        '''try:
-            return self._driver.execute_script("return (Runner.instance_.horizon.obstacles)[0].yPos")
-        except:
-            return 0'''
 
     def get_size(self):
         try:
@@ -165,10 +137,11 @@ class Dino:
             log_lines = ''
             with open('./logs/ui.log', 'r') as f_read:
                 lineas = f_read.readlines()
-
+            #Save last 5 lines
             for line_number in range(1, 6):
                 log_lines = log_lines + '<br>'+lineas[-line_number].replace('\n', '')
 
+            #Write the data to a file, only once for performance reasons.
             data = []
             data.append(str(self.game.get_score())+'\n')
             data.append(str(self.inputs[0][0]) + '\n')
@@ -189,13 +162,13 @@ class Dino:
                 F.write(''.join(data))
 
 
-            copy2("./tmp/working_data.txt", "./tmp/dash_data.txt")
+            copy2("./tmp/working_data.txt", "./tmp/dash_data.txt") #Copy the file for the gui to read
 
             self.gamePreviousString = self.gameOutputString
 
         return self.game.get_score()
 
-    def game_output_string(self):
+    def game_output_string(self): #This is just to have a good way to recognise what the output means.
         if self.gameOutputNumber < 0.45:
             return 'DOWN'
         elif self.gameOutputNumber > 0.55:
@@ -203,7 +176,7 @@ class Dino:
         else:
             return 'NORM'
 
-    def game_key(self):
+    def game_key(self): #Actual action related to the output
         if self.gameOutputString == 'DOWN':
             self.game.press_down()
         elif self.gameOutputString == 'JUMP':

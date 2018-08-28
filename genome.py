@@ -1,9 +1,7 @@
-import collections
 from collections import OrderedDict
 import numpy as np
 import tensorflow as tf
 from perceptron_2l import Perceptron
-from Dino import Game
 from Dino import Dino
 import random
 
@@ -54,17 +52,18 @@ class Genome(object):
     def execute_gene(self, game):
         gene = self.genes[self.gen]
 
-        #Si está parado, reinicia
+        #If stopped, restart
         if game.get_crashed():
             game.restart()
 
         dinosaur = Dino(game)
 
         #current_score = dinosaur.play(gene)
+        #Play a game a return the score.
         self.genes[self.gen].fitness = dinosaur.play(gene, self.gen, self.generation, self.folder)
         #self.scores.append(current_score)
 
-    def select_best_genes(self):
+    def select_best_genes(self): #Sort genes by score and take the best
         d = dict(enumerate(self.genes))
 
         f = []
@@ -94,7 +93,7 @@ class Genome(object):
         logger.info(f"{self.selection} genes have been renumbered.")
 
         best = self.genes.copy()
-
+        #Best genes have to get more chances of reproduction, so it makes a probability distribution
         prob = self.get_probability_distribution(scores)
 
         #Crossover
@@ -122,6 +121,7 @@ class Genome(object):
         return p
 
     def crossover(self, gen1, gen2):
+        #Flip them at random
         if random.random() > 0.5:
             temp = gen1
             gen1 = gen2
@@ -138,7 +138,7 @@ class Genome(object):
             gen2_dict = gen2.get_dict
 
 
-        for par in ['biases']:
+        for par in ['biases']: #Crossover only for biases (better results)
             gen1_par = gen1_dict[par]
             gen2_par = gen2_dict[par]
             cut_loc = int(len(gen1_par) * random.random())
@@ -151,7 +151,7 @@ class Genome(object):
 
         return gen1
 
-    def mutation(self, gen1):
+    def mutation(self, gen1): #Mutation for weights and biases
         gen1_dict = gen1.as_dict
         self.mutate_data(gen1_dict, self.mutationProb, 'biases')
         self.mutate_data(gen1_dict, self.mutationProb, 'weights')

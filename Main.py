@@ -9,7 +9,7 @@ numGenes = 12
 mutationProb = 0.1
 selection = 4
 keys.break_program = False
-folder = ''
+folder = '' #If a folder is specified, no networks will be generated, it will try and take them from there.
 mode = 'TRAINING'
 nGenerations = 90
 
@@ -33,7 +33,7 @@ if mode == 'TRAINING':
     logger.info(f'Training will last {nGenerations} generations.')
     for i in range(1,  nGenerations):
         with keyboard.Listener(on_press=keys.on_press) as listener:
-            if not keys.break_program:
+            if not keys.break_program: #End key to stop a running program by the end of the generation.
                 genome.execute_generation(game)
 
                 if (i % 5 == 0 and i != 0) or i == nGenerations:

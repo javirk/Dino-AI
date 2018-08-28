@@ -15,6 +15,7 @@ class Perceptron(object):
             tf.reset_default_graph()
         except:
             pass
+        #Network data is specified here (no config file), currently prepared for two layers only
         self.n_input = 4
         self.n_hidden_1 = 7
         self.n_hidden_2 = 5
@@ -60,7 +61,7 @@ class Perceptron(object):
         self.sess.close()
         tf.reset_default_graph()
         self.sess = tf.Session(config=tf.ConfigProto(allow_soft_placement=True))
-        if self.folder_model == '':
+        if self.folder_model == '': #Create new
             with tf.variable_scope(str(self.n_gen)):
                 self.weights = {
                     'h1': tf.Variable(tf.random_normal([self.n_input, self.n_hidden_1]), name='h1'),
@@ -84,7 +85,7 @@ class Perceptron(object):
                 self.sess.run(self.init)
                 self.saver = tf.train.Saver()
 
-        else:
+        else: #Get from folder.
 
             self.sess.run(tf.global_variables_initializer())
 
@@ -111,13 +112,6 @@ class Perceptron(object):
 
                 self.x = tf.placeholder('float', [None, self.n_input], name="x")
             self.pred = self.multilayer_perceptron(self.x, self.weights, self.biases)
-                #self.init = tf.global_variables_initializer()
-                #self.sess.run(self.init)
-            #except Exception as e:
-             #   print("EXCEPCIÓN: "+str(e))
-              #  logger.error(str(e))
-             #   self.folder_model = ''
-             #   self.init1()
 
         self.get_dict()
         self.initialized = True
@@ -141,7 +135,7 @@ class Perceptron(object):
 
         return outputs
 
-    def get_dict(self):
+    def get_dict(self): #Outputs a dict with the weights and biases of the network
         #self.sess = tf.Session()
         with tf.device("/gpu:0"):
             arr3 = tf.reshape(self.weights['out'],[self.n_hidden_2*self.n_output]).eval(session=self.sess)
@@ -156,8 +150,7 @@ class Perceptron(object):
 
         return self.as_dict
 
-    def reload(self):
-        # logger.info('dict of genome %s %s' %(str(self),str(self.as_dict),))
+    def reload(self): #Reload a network with a previous dict (after crossover and mutation)
         self.sess.close()
         tf.reset_default_graph()
         self.sess = tf.Session(config=tf.ConfigProto(allow_soft_placement=True))
@@ -195,19 +188,13 @@ class Perceptron(object):
 
         self.initialized = True
 
-    def copy(self):
+    def copy(self): #Copy newtorks
         d = copy.deepcopy(self.as_dict)
         p = Perceptron(self.folder_model, self.n_gen)
         p.as_dict = d
         return p
 
     def save_net(self):
-        #if not self.sess:
-        #    self.sess = tf.Session(config=tf.ConfigProto(allow_soft_placement=True))
-
-        #self.init = tf.global_variables_initializer()
-
-        #Remove folder in tmp
         try:
             shutil.rmtree('./tmp/'+str(self.n_gen), ignore_errors=True)
         except:
