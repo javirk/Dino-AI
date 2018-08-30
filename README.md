@@ -35,6 +35,8 @@ On PyCharm it is possible to create a Multirun configuration that runs first the
 
 Both programs work independently, so Main will work perfectly without the GUI.
 
+To quit the program, you can press the "End" key, it will stop when the current generation has finished and after saving all the models in use.
+
 ## Details
 In every iteration, while the dinosaur is not crashed, the program reads 4 inputs:
 1. Distance until next object (X)
@@ -50,3 +52,14 @@ There is only output, ranging from 0 to 1:
 This version uses a genetic algorithm to evolve the network from random weights and biases to working parameters. Each generation has a number of genomes, and each of them is tested until it crashes. When this happens, the score is saved as the fitness of that genome.
 
 When all the genomes in a generation are completed, the highest scores are selected and kept for the next generation. The rest of genomes are calculated by crossover and/or mutating them. The genomes that take part in these processes of crossover and mutation are chosen at random, but attending to the score each one has achieved. To reach this, a very simple probability distribution is calculated, so the highest score gets more probability of being chosen as a basis for next generations.
+
+## Implementation
+The implementation has been done entirely on Python, using Tensorflow and Selenium to interact with the JS of the game.
+
+These are the files on the project:
+* ```Dino.py```: it contains two classes: Game and Dino. The first is responsible for communicating with the browser. The latter gets the inputs of the game and sends them to the controller.
+* ```Main.py```: it joins all the other scripts
+* ```genome.py```: This script does everything: mutation, crossover, control of generations...
+* ```gui_v2.py```: All the gui related functions
+* ```keys.py```: A short script to stop the program by pressing End key
+* ```perceptron_2l.py```: Makes the Neural Networks, gets dictionaries to use them, etc.
